@@ -91,19 +91,18 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - You've been using html and css to build your own web-pages.
-- You can also use html and css to create logos and graphics for your web-page, but it's a little tricky to do without some help.
-- Go to [[http://html-generator.weebly.com/css-shape-generator.html#007BFFy1z-76z-27z17z0][This html generator site]]
-- Use the simple tools to create a graphic for your web-page.
-- You can then copy and paste the generated html into a page of your own.
-** Year 7 - Systems & Control
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Read and play the short videos on http://www.bbc.co.uk/schools/gcsebitesize/design/systemscontrol/mechanismsrev4.shtml .
-- Explain how the 'follower' works using *4* different shapes of cams from below.
-[[./images/Cams_SRD_2017.jpg]]
-- Once this is complete, please read the following website, http://www.bbc.co.uk/schools/gcsebitesize/design/systemscontrol/mechanismsrev4.shtml .
-- Please explain how a spur gear works.
+- There are many free online resources to help you hone your html and css skills to build your ultimate website.
+- For your SRD work:
+  - go to [[https://www.codecademy.com/learn/make-a-website][ this site]]
+  - Sign up using your school email address and a new password
+  - Spend an hour on the =Make a Website= course by following the instructions.
+  - Take a screenshot of your final stage of your progress with the course and upload to bournetolearn.
+  - Please note, the instructions and help notes are on the left side of the window. 
+- Alternatively, if you do not have access to the link above:
+  - Sketch a design of your webpage on paper
+  - Write down on each area what you plan to put, for example, paragraph, image, bulletin point, hyper links etc.
+  - List all tags you know that you will be using in your design and explain what the purpose of each tag.
+  - Hand in your work in person or take a screenshot upload to www.bournetolearn.com
 ** Year 8 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
