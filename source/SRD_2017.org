@@ -104,6 +104,23 @@
   - Write down on each area what you plan to put, for example, paragraph, image, bulletin point, hyper links etc.
   - List all tags you know that you will be using in your design and explain what the purpose of each tag.
   - Hand in your work in person or take a screenshot upload to www.bournetolearn.com
+** Year 7 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You've been learning mechanisms, more specifically, cams.
+- Cams are mechanisms that turn rotatory motion into into reciprocating motion (up and down)
+- For your SRD work:
+  - Watch the following two short YouTube videos on cam mechanism toys to get some ideas
+    1. [[https://www.youtube.com/watch?v%3Dh5EWrFqXJYM][video 1]]
+    2. [[https://www.youtube.com/watch?v%3Duz8TV7gkeT0][video 2]]
+  - Sketch a design of your own mechanism toy on paper that include the following parts with labels:
+    1. A frame
+    2. cams such as drop cam, pear cam etc
+    3. followers
+    4. Crank
+  - characters and their intended movement
+  - Hand in your work in person or take a screenshot upload to www.bournetolearn.com
 ** Year 8 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
