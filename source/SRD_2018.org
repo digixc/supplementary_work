@@ -13,7 +13,7 @@
 </div>
 <div id="stickyribbon">
     <ul>
-      <li><a href="https://github.com/digixc/supplementary_work/index.html">Menu</a></li>
+      <li><a href="https://github.com/digixc/supplementary_work/index.html"></a></li>
     </ul>
 </div>
 #+END_HTML
@@ -109,7 +109,43 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Coming soon
+- How do we create Artificial Intelligence for Computer Games? Let’s investigate and find out by looking at the simple game of Naught’s Crosses.
+- What is the secret of winning at naught and crosses? Research what are the winning strategies. 
+- Using structured English write down the steps you would follow to win at naught and crosses. Try and include the winning strategy you have researched.
+ 
+[[./img/NaughtCross.png]]
+- Example (structured English).
+#+BEGIN_SRC 
+If the middle is empty, then
+     choose the middle (space E)
+Else if any of the corners are available, then
+     Randomly choose a corner
+Else if the corners are taken then...
+#+END_SRC
+
+
+- *Extension tasks*
+  - Now for a bonus achievement point write down your strategy using Pseudo Code, or python for the real ambitious.
+
+  - Let’s assume we need to have 9 variables, one to represent each of the 9 places (letters A to I, see the image above) that we can write either a “0” or a “X” into. These can store the following values; 0 = naught, 1 = crosses, 2 = blank.
+#+BEGIN_SRC 
+Psuedo Code Example 1
+Player = 0   (set 0 for player 1, set 1 for Player 2)
+If  E = 2 then E = Player 
+Else If A = 2 or C= 2 or G = 2 or I=2               
+       Randomly choose A,C G or I
+#+END_SRC 
+
+
+#+BEGIN_SRC 
+Python Code Example  2
+Player = 0  (set 0 for player 1, set 1 for Player 2)
+If  E == 2:
+     E = Player
+elif (A == 2) or (C== 2) or (G == 2) or (I == 2):
+     choice = randint(1,4) 
+#+END_SRC
+ 
 
 ** Year 9 - Computing
 :PROPERTIES:
@@ -129,7 +165,7 @@
   - What is the reward system
   - In your opinion, what makes the game addictive/enjoyable to play?
 
-- Alternatively, if you do not play video games:
+- *Alternatively*, if you do not play video games:
   - Open Scratch by clicking on [[https://scratch.mit.edu/projects/79700266/#editor/][this]] link.
   - Once inside the project, click the green flag icon (top-middle of screen) to run the program.
   - Replace the 'Square' command with 'Pentagon', as directed on the page.
@@ -146,7 +182,9 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Coming.
+- Click [[./doc/Year%2010%20-%20CS%20-%20SRD.pdf][this link]] to download the theory exercises.
+- You can type your work on a computer or write in your exercise book.
+- Write down the question numbers and put your answers under each. When asked to draw diagrams, you can either use [[http://lucidchart.com][this free online tool]] or use a pen and paper or the tool your software has.
 
 
 ** Year 12 - Computing
