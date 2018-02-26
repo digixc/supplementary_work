@@ -1,0 +1,173 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: SRD 2018
+#+AUTHOR: X Ellis
+
+#+BEGIN_HTML
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/digixc/supplementary_work">Fork me on GitHub</a>
+        </div>
+</div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="https://github.com/digixc/supplementary_work/index.html">Menu</a></li>
+    </ul>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* SRD Work - 2018 
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Year 7 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You've been using html and css to build your own web-pages.
+- There are many free online resources to help you hone your html and css skills to build your ultimate website.
+- For your SRD work:
+  - go to [[https://www.codecademy.com/learn/make-a-website][ this site]]
+  - Sign up using your school email address and a new password
+  - You may be asked to verify your account. If so, please use this link [[https://webmail.bourne-grammar.lincs.sch.uk/][BGS Webmail]] to log into your school email account.
+  - Spend an hour on the =Make a Website= course by following the instructions.
+  - Take a screenshot of your final stage of your progress with the course and upload to bournetolearn.
+  - Please note, the instructions and help notes are on the left side of the window. 
+- Alternatively, if you do not have access to the link above:
+  - Sketch a design of your webpage on paper
+  - Write down on each area what you plan to put, for example, paragraph, image, bulletin point, hyper links etc.
+  - List all tags you know that you will be using in your design and explain what the purpose of each tag.
+  - Hand in your work in person or take a screenshot upload to www.bournetolearn.com
+
+** Year 8 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Coming soon
+
+** Year 9 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- From Asteroids to Grand Theft Auto, video games have been around for awhile. With massive game worlds and story lines fit for any big budget movie. 
+- Video games have come along way since their birth in the late 70's and are one of the most popular forms of entertainment today. 
+- So what makes successful games? Asteroids was extremely popular when it was created, but today it probably wouldn't catch someone's attention for more than a few minutes. Let's look at some examples of successful games in the past to identify the key ingredients that, when added together, create a memorable and appealing experience that can hold up to today's market.
+*** Task:
+- Evaluate two games you have played in the following aspects:
+  - Name of the game
+  - Genre
+  - What is the purpose of the game
+  - Rules
+  - Mechanics
+  - Platform
+  - What is the reward system
+  - In your opinion, what makes the game addictive/enjoyable to play?
+
+- Alternatively, if you do not play video games:
+  - Open Scratch by clicking on [[https://scratch.mit.edu/projects/79700266/#editor/][this]] link.
+  - Once inside the project, click the green flag icon (top-middle of screen) to run the program.
+  - Replace the 'Square' command with 'Pentagon', as directed on the page.
+  - *TASK:* Make the program draw a pentagon. Upload a screenshot of your code and of the shape.
+  - Swap the 'pentagon' command for 'pattern'. Think about how this works.
+  - *TASK:* Modify the code to make a program to draw a pattern of your own.
+    - You could have something made from 50 triangles
+    - Or a square, then a pentagon one after the other before rotating a bit and repeating
+    - Or you could change the pen colour a bit after each shape is drawn.
+  - Remember - you can't break anything, so don't be afraid to experiment.
+  - Upload a screenshot of your best pattern AND a shot of your code to BourneToLearn.
+
+** Year 10 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Coming.
+
+
+** Year 12 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Write up your research on the debate of national security versus right to privacy using recent prominent cases.
+- Your writing should include examples, the arguments from both sides and your own opinion and reasoning.
+- Click on [[http://www.bbc.co.uk/search?q%3Dprivacy%2520law][this]] link for examples.
+
+** Year 13 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+*** Task 1
+- Access open drive by going to https://remote.bourne-grammar.lincs.sch.uk.  Log in using your school credential.
+- Read the preliminary material on opendrive:/computing/June-2018-OnScreen folder.
+- Create a flowchart to show how the game "Words with AQA" work, using lucidchart.com or any other suitable tools, including paper and pen.
+- Bring your work to the next lesson.
+*** Task 2
+- Go to this [[http://sqlzoo.net][site]] and practice your sql with focus on the following DDL:
+  - UPDATE
+  - INSERT
+  - CREATE
