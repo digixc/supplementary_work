@@ -217,7 +217,9 @@ elif (A == 2) or (C== 2) or (G == 2) or (I == 2):
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Coming soon
+- Open [[./doc/Y11-SRDWork-2019.pdf][this pdf workbook]] and work through the tasks
+- you can skip ahead to sections where you think it would be more beneficial to help your understanding
+- Spend an hour on the workbook
 
 ** Year 12 - Computing
 :PROPERTIES:
