@@ -1,0 +1,236 @@
+#+STARTUP:indent
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
+#+TITLE: SRD 2020
+#+AUTHOR: X Ellis
+
+#+BEGIN_EXPORT html
+<div class="github-fork-ribbon-wrapper left">
+        <div class="github-fork-ribbon">
+            <a href="https://github.com/digixc/supplementary_work">Fork me on GitHub</a>
+        </div>
+</div>
+<div id="stickyribbon">
+    <ul>
+      <li><a href="https://github.com/digixc/supplementary_work/index.html"></a></li>
+    </ul>
+</div>
+#+END_EXPORT
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Learn It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
+
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: design
+:END:
+
+** Build It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: build
+:END:
+
+** Test It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: test
+:END:
+
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+
+** Document It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: document
+:END:
+
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+
+** Try It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+
+** Badge It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: badge
+:END:
+
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+
+* SRD Work - 2020
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Year 7 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You've been using html and css to build your own web-pages.
+- There are many free online resources to help you hone your html and css skills to build your ultimate website.
+- For your SRD work:
+  - go to [[https://www.codecademy.com/learn/make-a-website][ this site]]
+  - Sign up using your school email address and a new password
+  - You may be asked to verify your account. If so, please use this link [[https://webmail.bourne-grammar.lincs.sch.uk/][BGS Webmail]] to log into your school email account.
+  - Spend an hour on the =Make a Website= course by following the instructions.
+  - Take a screenshot of your final stage of your progress with the course and upload to bournetolearn.
+  - Please note, the instructions and help notes are on the left side of the window. 
+- Alternatively, if you do not have access to the link above:
+  - Sketch a design of your webpage on paper
+  - Write down on each area what you plan to put, for example, paragraph, image, bulletin point, hyper links etc.
+  - List all tags you know that you will be using in your design and explain what the purpose of each tag.
+  - Hand in your work in person or take a screenshot upload to www.bournetolearn.com
+    
+** Year 8 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Ever wonder how computers beat us at games? Let’s investigate and find out by looking at the simple game of Naught’s Crosses.
+- What is the secret of winning at naught and crosses? Research what are the winning strategies. 
+- Using structured English write down the steps you would follow to win at naught and crosses. Try and include the winning strategy you have researched.
+ 
+[[./img/NaughtCross.png]]
+- Example (structured English).
+#+BEGIN_SRC 
+If the middle is empty, then
+     choose the middle (space E)
+Else if any of the corners are available, then
+     Randomly choose a corner
+Else if the corners are taken then...
+#+END_SRC
+
+
+- *Extension tasks*
+  - Now for a bonus achievement point write down your strategy using Pseudo Code, or python for the real ambitious.
+
+  - Let’s assume we need to have 9 variables, one to represent each of the 9 places (letters A to I, see the image above) that we can write either a “0” or a “X” into. These can store the following values; 0 = naught, 1 = crosses, 2 = blank.
+#+BEGIN_SRC 
+Psuedo Code Example 1
+Player = 0   (set 0 for player 1, set 1 for Player 2)
+If  E = 2 then E = Player 
+Else If A = 2 or C= 2 or G = 2 or I=2               
+       Randomly choose A,C G or I
+#+END_SRC 
+
+
+#+BEGIN_SRC 
+Python Code Example  2
+Player = 0  (set 0 for player 1, set 1 for Player 2)
+If  E == 2:
+     E = Player
+elif (A == 2) or (C== 2) or (G == 2) or (I == 2):
+     choice = randint(1,4) 
+#+END_SRC
+ 
+** Year 9 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You’re going to investigate and research SQL. To start find the definition for SQL concerning databases. Open a text editor of your choice and explain what SQL is, including an example.
+- To get some hands on experience and see what SQL can do, followy this [[https://sqlzoo.net/wiki/SELECT_from_BBC_Tutorial][link]]
+- Once on the site, take a look at the table that contains four records.
+- Then run the first SQL Command by pressing the Submit SQL button and examine what the results are like. Yous should see something like the following:
+[[./img/SQL-1.png]]
+
+- Now write down the name of the *Table* used, the *Fields* you have selected and explain how the SQL Select command works.
+
+- Continue working through questions 2 to 6, remembering the symbols for Greater than > and less than <.
+
+- If you are having difficulty,  then try the [[https://sqlzoo.net/wiki/SELECT_basics][SELECT basics]]
+- Screen shot or take a photo your progress and upload to *Database* SRD work badge on www.bournetolearn.com
+
+
+
+** COMMENT Year 9 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- From Asteroids to Grand Theft Auto, video games have been around for awhile. With massive game worlds and story lines fit for any big budget movie. 
+- Video games have come along way since their birth in the late 70's and are one of the most popular forms of entertainment today. 
+- So what makes successful games? Asteroids was extremely popular when it was created, but today it probably wouldn't catch someone's attention for more than a few minutes. Let's look at some examples of successful games in the past to identify the key ingredients that, when added together, create a memorable and appealing experience that can hold up to today's market.
+*** Task:
+- Evaluate two games you have played in the following aspects:
+  - Name of the game
+  - Genre
+  - What is the purpose of the game
+  - Rules
+  - Mechanics
+  - Platform
+  - What is the reward system
+  - In your opinion, what makes the game addictive/enjoyable to play?
+
+- *Alternatively*, if you do not play video games:
+  - Open Scratch by clicking on [[https://scratch.mit.edu/projects/79700266/#editor/][this]] link.
+  - Once inside the project, click the green flag icon (top-middle of screen) to run the program.
+  - Replace the 'Square' command with 'Pentagon', as directed on the page.
+  - *TASK:* Make the program draw a pentagon. Upload a screenshot of your code and of the shape.
+  - Swap the 'pentagon' command for 'pattern'. Think about how this works.
+  - *TASK:* Modify the code to make a program to draw a pattern of your own.
+    - You could have something made from 50 triangles
+    - Or a square, then a pentagon one after the other before rotating a bit and repeating
+    - Or you could change the pen colour a bit after each shape is drawn.
+  - Remember - you can't break anything, so don't be afraid to experiment.
+  - Upload a screenshot of your best pattern AND a shot of your code to BourneToLearn.
+
+** Year 9L - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Log on to you [[https://www.codeacademy.com][CodeAcademy]] account if you already have one. 
+- If you do not have account on CodeAcademy, create one using your school email address.
+- continue with the JavaScript module for an hour.
+
+** COMMENT Year 10 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Click [[./doc/Year%2010%20-%20CS%20-%20SRD.pdf][this link]] to download the theory exercises.
+- You can type your work on a computer or write in your exercise book.
+- Write down the question numbers and put your answers under each. When asked to draw diagrams, you can either use [[http://lucidchart.com][this free online tool]] or use a pen and paper or the tool your software has.
+
+
+** Year 11 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Open [[./doc/Y11-SRDWork-2019.pdf][this pdf workbook]] and work through the tasks
+- you can skip ahead to sections where you think it would be more beneficial to help your understanding
+- Spend an hour on the workbook
+
+** Year 12 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+- Coming soon 
+
+** Year 13 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+
+- Contiue working on your NEA work and use the given check lists to ensure each section are up to the expected standards.

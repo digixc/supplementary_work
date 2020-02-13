@@ -6,13 +6,13 @@
 #+AUTHOR: X Ellis
 
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
         <a href="https://github.com/stsb11/7-SC-Mechanisms">Fork me on GitHub</a>
     </div>
 </div>
-#+END_HTML
+#+END_EXPORT
 * [[http://www.bournetocode.com/projects/7-CS-ScratchArcade/][Scratch Arcade]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
@@ -21,7 +21,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
-* [[file:pages/2019_SRD.html][SRD Work 2019]]
+* [[file:pages/2020_SRD.html][SRD Work 2020]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:     
