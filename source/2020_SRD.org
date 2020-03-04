@@ -204,13 +204,13 @@ elif (A == 2) or (C== 2) or (G == 2) or (I == 2):
 - If you do not have account on CodeAcademy, create one using your school email address.
 - continue with the JavaScript module for an hour.
 
-** COMMENT Year 10 - Computing
+** Year 10 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Click [[./doc/Year%2010%20-%20CS%20-%20SRD.pdf][this link]] to download the theory exercises.
+- Click [[./doc/Representations of Data Worksheet.pdf][this link]] to download the theory exercises.
 - You can type your work on a computer or write in your exercise book.
-- Write down the question numbers and put your answers under each. When asked to draw diagrams, you can either use [[http://lucidchart.com][this free online tool]] or use a pen and paper or the tool your software has.
+- Try to answer as many as the an hour time allows you.
 
 
 ** Year 11 - Computing
@@ -226,11 +226,13 @@ elif (A == 2) or (C== 2) or (G == 2) or (I == 2):
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-- Coming soon 
+- You have been given the print-out for [[./doc/AS-DryRunQ5-6-Mar06-2020.pdf][this pdf exercise sheet.]]
+- Work through the tasks and ready to bring in next lesson for marking
 
 ** Year 13 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-- Contiue working on your NEA work and use the given check lists to ensure each section are up to the expected standards.
+- You have been given the print-out for [[./doc/A-DryRunQ5-7-Mar06-2020.pdf][this pdf exercise sheet.]]
+- Work through the tasks and ready to bring in next lesson for marking
